@@ -125,3 +125,5 @@ print("Elevamos la matriz 4 a una potencia de 7: \n", potencia1, "\n")
 #Restamos dos matrices
 resta1 = matriz3 - matriz4
 print("Restamos la matriz 4 a la 3: \n", resta1, "\n")
+
+print("FINAL DEL EJERCICIO")
